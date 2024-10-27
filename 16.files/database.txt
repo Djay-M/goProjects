@@ -1,0 +1,6 @@
+how are you doing
+hey hi
+whats up
+abcdefghijklmnopqurstuvwxyz
+what the fuck
+updated from io.Readfile to os.Readfile as ioutils.readfile was dericated
